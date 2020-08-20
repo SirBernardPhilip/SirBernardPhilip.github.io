@@ -11,4 +11,4 @@ redirect_from:
 I am a visiting student at the [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/) of [MIT](http://web.mit.edu/) working with [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/)'s computer vision group. I am now finishing my double degree in Computer Science and Telecommunications at the [CFIS](https://cfis.upc.edu/ca) program of [UPC](http://www.upc.edu/).
 
 
-You can find my full [CV](/documents/CV.pdf) here.
+You can find my full [CV](/files/CV.pdf) here.

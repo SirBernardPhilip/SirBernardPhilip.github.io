@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Bernat Felip's Site"
 title_separator          : ""
 name                     : &name "Bernat Felip i Díaz"
 description              : &description "Computer Science and Telecomunications Engineering student at UPC"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "felipb@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

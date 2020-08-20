@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bernat Felip i Díaz"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Bernat Felip i Díaz"
 description              : &description "Computer Science and Telecomunications Engineering student at UPC"

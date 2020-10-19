@@ -12,24 +12,3 @@ I am a visiting student at the [Computer Science and Artificial Intelligence Lab
 
 
 You can find my full [CV](/files/CV.pdf) here.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Accessibility](https://accessibility.mit.edu/)
